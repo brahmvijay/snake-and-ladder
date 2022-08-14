@@ -83,6 +83,7 @@ int main(){
     snake(current);
     cout<<"the current position of the coin is "<<current<<endl;
     }
+    cout<<" THANKS FOR THE PLAY "<<endl;
     
 return 0;
 
